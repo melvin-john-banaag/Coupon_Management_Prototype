@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Offer_Code_Validation</fullName>
+    <active>true</active>
+    <description>Offer Code Validation</description>
+    <errorConditionFormula>ISBLANK(Offer_Code__c)</errorConditionFormula>
+    <errorDisplayField>Offer_Code__c</errorDisplayField>
+    <errorMessage>Please provide Offer Code</errorMessage>
+</ValidationRule>
