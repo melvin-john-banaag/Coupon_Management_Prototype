@@ -50,6 +50,28 @@
         <name>CustomObject</name>
     </types>
 
+
+    <types>
+        <members>Brand_JIRA__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Category_JIRA__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Coupon_Instance_JIRA__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>JIRA_Coupon_Item__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Product_JIRA__c</members>
+        <name>CustomObject</name>
+    </types>
+
     <!--
     <types>
         <members>*</members>
